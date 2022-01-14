@@ -22,7 +22,7 @@ JAVASCRIPT, CSS, HTML, PHP e framework BOOTSTRAP. Para simular um servidor foi u
 	define('DATABASE','sectotechplaylist');	
 
 </p>
-<p align="justify">Para logar o sistema, esta definida na base dois usuários, o 1o contato@dropscode.com.b(login) - perfil administrador, admim(senha) e o 2o edmurgsjr@hotmail.com(login) - pefil usuario. Nestes dois usuários, vocês vão perceber que para o perfil "administrador", vão aparecer todas as opções e para perfil "usuario" só algumas do sistema.</p> 
+<p align="justify">Para logar o sistema, esta definida na base dois usuários, o 1o contato@dropscode.com.b(login) - perfil administrador, admin(senha) e o 2o edmurgsjr@hotmail.com(login) - pefil usuario, admin(senha). Nestes dois usuários, vocês vão perceber que para o perfil "administrador", vão aparecer todas as opções e para perfil "usuario" só algumas do sistema.</p> 
 <p align="justify">Fiquem a vontade para navegar por todas as opções e usar os recursos cadastrar, editar, remover e visualizar os dados.</p> 
 <br>
 <p align="justify">Espero que com este pequeno projeto, dê para vocês analisarem as minhas caracteristicas como desenvolvedor.</p>
